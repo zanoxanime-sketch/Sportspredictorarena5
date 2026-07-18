@@ -1,10 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "app.saveen.sportspredictorarena1.twa",
-    "sha256_cert_fingerprints": [
-      "34:37:50:A9:2F:C7:7A:6C:0B:87:8F:58:8E:DE:54:8C:0E:C2:90:97:11:51:5E:F9:79:25:31:92:9A:3B:EE:DD"
-    ]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.kaelar.sportspredictorarena1.twa",
+        "sha256_cert_fingerprints": ["CE:91:C7:F7:7F:8A:92:EF:78:E0:A8:EA:20:2A:4F:41:D7:43:FB:FB:49:57:62:8B:8F:7D:DA:CB:1F:B5:37:F1"]
+      }
+    }]
