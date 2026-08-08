@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.sportspredictorarena1958.twa",
+        "sha256_cert_fingerprints": ["15:51:D4:33:30:41:66:3A:7C:C5:C5:B7:AE:68:B1:48:73:20:CF:33:BE:07:84:D2:E4:07:F1:BA:E6:9A:6F:99"]
+      }
+    }]
